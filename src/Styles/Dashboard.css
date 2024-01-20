@@ -1,0 +1,16 @@
+.container {
+  width: 100%;
+  height: 100vh;
+}
+
+.btncontainer {
+  display: flex !important;
+  width: 40%;
+
+  justify-content: space-between;
+}
+
+.mytable {
+  width: fit-content !important;
+  display: flex !important;
+}
